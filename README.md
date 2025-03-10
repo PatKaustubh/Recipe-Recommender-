@@ -22,15 +22,6 @@ The dataset used in this assignment mirrors the structure from the previous proj
 - [📥 Raw Ratings (small)](https://raw-recipes-clean-upgrad.s3.amazonaws.com/raw_ratings_small.csv)
 - [📥 Raw Recipes (small)](https://raw-recipes-clean-upgrad.s3.amazonaws.com/raw_recipies_small.csv)
 - [📥 Cleaned Recipes](https://raw-recipes-clean-upgrad.s3.amazonaws.com/RAW_recipes_cleaned.csv)
-
-### 📂 **S3 Bucket Links**
-- `s3a://raw-recipes-clean-upgrad/raw_ratings_small.csv`
-- `s3a://raw-recipes-clean-upgrad/raw_recipies_small.csv`
-- `s3a://raw-recipes-clean-upgrad/RAW_recipes_cleaned.csv`
-
-Refer to the **data dictionary from the last project** for dataset details.
-
----
 ## 🛠️ Methodology & Approach
 You are expected to use **Apache Spark** to build the **machine learning model**. The algorithms used will be:
 
